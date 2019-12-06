@@ -18,12 +18,12 @@ HELP buys and then leases equipment to subscribers within Nodaway County to use 
 
 - In HTML, images are defined with the <img> tag.
 - The <img> tag is empty, it contains attributes only, and does not have a closing tag.
-- The src attribute specifies the URL (web address) of the image: <!--<img src="url">-->
+- The src attribute specifies the URL (web address) of the image: ```<img src="url">```
 
 # Adding Images
 
 - Following is the example to add images
-- <!--<img class="masthead-avatar mb-5" src="imageaddress" alt="" width="600" height="300">-->
+- ```<img class="masthead-avatar mb-5" src="imageaddress" alt="" width="600" height="300">```
 
 # Updating CDN Style Links
 
