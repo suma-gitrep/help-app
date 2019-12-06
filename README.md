@@ -23,7 +23,7 @@ HELP buys and then leases equipment to subscribers within Nodaway County to use 
 # Adding Images
 
 - Following is the example to add images
-- <img class="masthead-avatar mb-5" src="images/img7.jpg" alt="" width="600" height="300">
+- <img class="masthead-avatar mb-5" src="imagelink" alt="" width="600" height="300">
 
 # Updating CDN Style Links
 
